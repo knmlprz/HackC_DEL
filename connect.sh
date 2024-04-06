@@ -1,0 +1,1 @@
+ssh -p 10022 -L 8888:127.0.0.1:8888 danielkleczykkleczynski@172.16.3.101
