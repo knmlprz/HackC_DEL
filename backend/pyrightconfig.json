@@ -1,7 +1,0 @@
-{
-    "include": [
-         "moj_browarek",
-         "user",
-         "beers"
-    ]
-}
