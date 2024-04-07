@@ -8,4 +8,4 @@ handle_error() {
 
 trap 'handle_error $LINENO' ERR
 
-jupyter lab
+s
