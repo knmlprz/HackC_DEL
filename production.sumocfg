@@ -1,0 +1,17 @@
+<configuration>
+    <input>
+        <net-file value="osm_bbox.net.xml"/>
+        <route-files value="test.route.xml"/>
+    </input>
+
+    <time> 
+      <begin value="100" />
+      <end value="10000"/>
+    </time>
+
+    <option>
+      <fcd-output value="resault_fcd.xml" />
+      <fcd-output.geo value="true" />
+    </option>
+
+</configuration>

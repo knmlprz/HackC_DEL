@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <busStop id="-1838250021" name="Podwisłocze domki 01" lane="-172993580#12_0" startPos="0.00" endPos="10.18" friendlyPos="true" lines="21 26">
+        <access lane="-1099066942#2_0" pos="0.00" length="12.44" friendlyPos="1"/>
+        <access lane="1099066942#2_0" pos="4.03" length="12.44" friendlyPos="1"/>
+        <access lane="566809176#25_0" pos="8.36" length="25.55" friendlyPos="1"/>
+        <access lane="627754995#12_0" pos="11.31" length="26.56" friendlyPos="1"/>
+        <access lane="627754995#13_0" pos="0.00" length="25.36" friendlyPos="1"/>
+    </busStop>
+    <busStop id="-2246607886" name="Podwisłocze U. Skarbowy 03" lane="-172993580#27_0" startPos="44.13" endPos="59.13" friendlyPos="true" lines="21 26">
+        <access lane="329170390#0_0" pos="22.49" length="36.32" friendlyPos="1"/>
+        <access lane="329170390#1_0" pos="0.30" length="27.29" friendlyPos="1"/>
+        <access lane="566809176#39_0" pos="15.11" length="23.95" friendlyPos="1"/>
+        <access lane="627754995#1_0" pos="17.28" length="22.99" friendlyPos="1"/>
+        <access lane="627754995#2_0" pos="0.00" length="25.12" friendlyPos="1"/>
+    </busStop>
+    <busStop id="-2261682324" name="Podwisłocze / Powst. Warszawy 02" lane="-172993580#1_0" startPos="82.85" endPos="97.85" friendlyPos="true" lines="31">
+        <access lane="-124861847#2_0" pos="172.73" length="40.23" friendlyPos="1"/>
+        <access lane="124861847#2_0" pos="0.00" length="36.43" friendlyPos="1"/>
+        <access lane="566809176#17_0" pos="24.89" length="24.18" friendlyPos="1"/>
+        <access lane="627754995#23_0" pos="156.56" length="24.18" friendlyPos="1"/>
+        <access lane="627755002#0_0" pos="0.00" length="41.36" friendlyPos="1"/>
+    </busStop>
+    <busStop id="-633750515" name="Podwisłocze klinika 04" lane="-172993580#16_0" startPos="86.07" endPos="101.07" friendlyPos="true" lines="31">
+        <access lane="-381178436#1_0" pos="56.67" length="53.44" friendlyPos="1"/>
+        <access lane="381178436#1_0" pos="22.90" length="58.24" friendlyPos="1"/>
+        <access lane="566809176#29_0" pos="27.43" length="23.88" friendlyPos="1"/>
+        <access lane="566809176#30_0" pos="0.00" length="45.32" friendlyPos="1"/>
+        <access lane="627754995#10_0" pos="151.18" length="26.17" friendlyPos="1"/>
+    </busStop>
+    <busStop id="1838250021" name="Podwisłocze domki 01" lane="172993580#12_0" startPos="0.00" endPos="10.18" friendlyPos="true" lines="10 32">
+        <access lane="-1099066942#2_0" pos="0.00" length="12.44" friendlyPos="1"/>
+        <access lane="1099066942#2_0" pos="4.03" length="12.44" friendlyPos="1"/>
+        <access lane="566809176#25_0" pos="8.36" length="25.55" friendlyPos="1"/>
+        <access lane="627754995#12_0" pos="11.31" length="26.56" friendlyPos="1"/>
+        <access lane="627754995#13_0" pos="0.00" length="25.36" friendlyPos="1"/>
+    </busStop>
+    <busStop id="1844935968" name="Paderewskiego / Ossolińskich 02" lane="223256101#15_0" startPos="49.18" endPos="64.18" friendlyPos="true"/>
+    <busStop id="1946190642" name="Sikorskiego / Powst. Warszawy 02" lane="504679534#2_0" startPos="146.30" endPos="161.30" friendlyPos="true" lines="18 19"/>
+    <busStop id="2019066843" name="Powst. Warszawy / Rejtana 13" lane="9390358#4_0" startPos="39.82" endPos="54.82" friendlyPos="true" lines="18 34 0B"/>
+    <busStop id="2019089655" name="Powst. Warszawy / Sikorskiego 12" lane="504679535#0_0" startPos="0.00" endPos="15.00" friendlyPos="true" lines="18 0A"/>
+    <busStop id="2019089673" name="Powst. Warszawy / Graniczna 10" lane="1083195204_0" startPos="68.57" endPos="83.57" friendlyPos="true" lines="18 34 0A"/>
+    <busStop id="2019089715" name="Powst. Warszawy / Podwisłocze 07" lane="495869020_0" startPos="92.13" endPos="107.13" friendlyPos="true" lines="26"/>
+    <busStop id="2077200093" name="Rejtana Uniwersytet 06" lane="255596829#0_0" startPos="96.94" endPos="111.94" friendlyPos="true" lines="19 0A">
+        <access lane="-791024994#0_0" pos="82.41" length="38.93" friendlyPos="1"/>
+        <access lane="-791024995#0_0" pos="132.29" length="53.46" friendlyPos="1"/>
+        <access lane="-82993283#0_0" pos="180.51" length="73.47" friendlyPos="1"/>
+        <access lane="791024994#0_0" pos="0.00" length="37.45" friendlyPos="1"/>
+        <access lane="791024995#0_0" pos="56.65" length="56.46" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2152566940" name="Armii Krajowej hotel 04" lane="225118916#1_0" startPos="56.87" endPos="71.87" friendlyPos="true">
+        <access lane="-184596152_0" pos="171.62" length="65.58" friendlyPos="1"/>
+        <access lane="1072958503#0_0" pos="0.00" length="78.18" friendlyPos="1"/>
+        <access lane="168025937#5_0" pos="66.93" length="21.38" friendlyPos="1"/>
+        <access lane="184596152_0" pos="241.13" length="70.38" friendlyPos="1"/>
+        <access lane="366538216#8_0" pos="168.41" length="61.92" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2152579064" name="Armii Krajowej / Powst. Listopadowych 06" lane="225277794_0" startPos="86.00" endPos="101.00" friendlyPos="true">
+        <access lane="168025937#17_0" pos="95.54" length="22.37" friendlyPos="1"/>
+        <access lane="194796161#0_0" pos="433.34" length="75.19" friendlyPos="1"/>
+        <access lane="194796161#1_0" pos="10.39" length="66.57" friendlyPos="1"/>
+        <access lane="49884210#0_0" pos="17.35" length="70.57" friendlyPos="1"/>
+        <access lane="49884210#1_0" pos="0.00" length="73.49" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2169578109" name="Kwiatkowskiego / Powst. Warszawy 02" lane="272410457#0_0" startPos="26.29" endPos="41.29" friendlyPos="true" lines="21"/>
+    <busStop id="2169578110" name="Powst. Warszawy Dom Studenta 08" lane="266142462_0" startPos="47.26" endPos="62.26" friendlyPos="true" lines="18 34 0A"/>
+    <busStop id="2169578111" name="Powst. Warszawy Dom Studenta 09" lane="266142475#0_0" startPos="32.92" endPos="47.92" friendlyPos="true" lines="18 34 10 0B"/>
+    <busStop id="2188091614" name="Kopisto Uniwersytet 02" lane="627806961#1_0" startPos="65.71" endPos="80.71" friendlyPos="true">
+        <access lane="-791024995#4_0" pos="0.00" length="46.78" friendlyPos="1"/>
+        <access lane="219517273#0_0" pos="0.00" length="48.33" friendlyPos="1"/>
+        <access lane="219517280_0" pos="104.96" length="45.45" friendlyPos="1"/>
+        <access lane="791024995#4_0" pos="49.45" length="48.92" friendlyPos="1"/>
+        <access lane="894401368_0" pos="20.99" length="25.61" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2246607833" name="Kopisto Uniwersytet 01" lane="298893245#1_0" startPos="52.44" endPos="67.44" friendlyPos="true">
+        <access lane="-196280507#0_0" pos="57.62" length="49.74" friendlyPos="1"/>
+        <access lane="196280507#0_0" pos="78.34" length="52.74" friendlyPos="1"/>
+        <access lane="627806972#5_0" pos="25.40" length="53.71" friendlyPos="1"/>
+        <access lane="627806972#6_0" pos="0.20" length="49.22" friendlyPos="1"/>
+        <access lane="627806972#7_0" pos="16.71" length="19.67" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2246607886" name="Podwisłocze U. Skarbowy 03" lane="172993580#27_0" startPos="7.59" endPos="22.59" friendlyPos="true" lines="10 32">
+        <access lane="329170390#0_0" pos="22.49" length="36.32" friendlyPos="1"/>
+        <access lane="329170390#1_0" pos="0.30" length="27.29" friendlyPos="1"/>
+        <access lane="566809176#39_0" pos="15.11" length="23.95" friendlyPos="1"/>
+        <access lane="627754995#1_0" pos="17.28" length="22.99" friendlyPos="1"/>
+        <access lane="627754995#2_0" pos="0.00" length="25.12" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2246608407" name="Kopisto Most Zamkowy 04" lane="89215720#2_0" startPos="71.13" endPos="86.13" friendlyPos="true" lines="10">
+        <access lane="-993276238_0" pos="0.00" length="45.91" friendlyPos="1"/>
+        <access lane="627754992#1_0" pos="57.88" length="59.82" friendlyPos="1"/>
+        <access lane="627787198#8_0" pos="33.40" length="21.00" friendlyPos="1"/>
+        <access lane="993276238_0" pos="33.70" length="43.84" friendlyPos="1"/>
+        <access lane="993276239_0" pos="43.78" length="62.45" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2256139376" name="Rejtana / Armii Krajowej 12" lane="255596831#1_0" startPos="87.23" endPos="102.23" friendlyPos="true" lines="34 19 0A">
+        <access lane="-186572979#0_0" pos="72.49" length="50.09" friendlyPos="1"/>
+        <access lane="-255596853#2_0" pos="33.75" length="23.92" friendlyPos="1"/>
+        <access lane="182531371_0" pos="45.97" length="54.80" friendlyPos="1"/>
+        <access lane="186572979#0_0" pos="108.35" length="45.29" friendlyPos="1"/>
+        <access lane="255596853#2_0" pos="98.73" length="26.92" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2256139460" name="Rejtana / Popiełuszki 09" lane="495859914#2_0" startPos="68.57" endPos="83.57" friendlyPos="true" lines="19 0B">
+        <access lane="-167459191#13_0" pos="55.22" length="27.25" friendlyPos="1"/>
+        <access lane="-744467802#4_0" pos="26.65" length="48.77" friendlyPos="1"/>
+        <access lane="167459191#13_0" pos="25.68" length="30.25" friendlyPos="1"/>
+        <access lane="82993287#2_0" pos="76.45" length="49.55" friendlyPos="1"/>
+        <access lane="894404463#0_0" pos="26.83" length="19.30" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2256139471" name="Rejtana / Paderewskiego 10" lane="744467798#1_0" startPos="49.62" endPos="64.62" friendlyPos="true" lines="34 19 0A">
+        <access lane="-744467802#3_0" pos="0.00" length="46.80" friendlyPos="1"/>
+        <access lane="-744467802#4_0" pos="36.24" length="17.94" friendlyPos="1"/>
+        <access lane="1062398329_0" pos="78.19" length="46.61" friendlyPos="1"/>
+        <access lane="744467802#3_0" pos="20.26" length="48.04" friendlyPos="1"/>
+        <access lane="744467802#4_0" pos="23.85" length="20.94" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2256139680" name="Rejtana / Kopisto 07" lane="44625072#1_0" startPos="60.13" endPos="75.13" friendlyPos="true" lines="19 0B">
+        <access lane="-197439083_0" pos="0.00" length="75.28" friendlyPos="1"/>
+        <access lane="-197439087#3_0" pos="8.03" length="63.23" friendlyPos="1"/>
+        <access lane="-197439087#4_0" pos="13.23" length="78.99" friendlyPos="1"/>
+        <access lane="197439087#3_0" pos="25.77" length="68.03" friendlyPos="1"/>
+        <access lane="894404466_0" pos="48.24" length="23.84" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2261682324" name="Podwisłocze / Powst. Warszawy 02" lane="172993580#1_0" startPos="0.00" endPos="15.00" friendlyPos="true" lines="10 21 26 32">
+        <access lane="-124861847#2_0" pos="172.73" length="40.23" friendlyPos="1"/>
+        <access lane="124861847#2_0" pos="0.00" length="36.43" friendlyPos="1"/>
+        <access lane="566809176#17_0" pos="24.89" length="24.18" friendlyPos="1"/>
+        <access lane="627754995#23_0" pos="156.56" length="24.18" friendlyPos="1"/>
+        <access lane="627755002#0_0" pos="0.00" length="41.36" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2317692889" name="Paderewskiego / Ossolińskich 01" lane="223256101#8_0" startPos="0.00" endPos="15.00" friendlyPos="true"/>
+    <busStop id="2317724307" name="Niepodległości / Rejtana 02" lane="44625101#1_0" startPos="60.17" endPos="75.17" friendlyPos="true">
+        <access lane="224021304#0_0" pos="0.00" length="76.29" friendlyPos="1"/>
+        <access lane="224021304#1_0" pos="0.00" length="78.58" friendlyPos="1"/>
+        <access lane="224021308#0_0" pos="0.00" length="43.68" friendlyPos="1"/>
+        <access lane="255596838#0_0" pos="44.65" length="44.27" friendlyPos="1"/>
+        <access lane="255596838#1_0" pos="19.96" length="23.62" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2317724325" name="Niepodległości Dom Dziecka 01" lane="994014111#1_0" startPos="111.75" endPos="126.75" friendlyPos="true"/>
+    <busStop id="2317724329" name="Niepodległości Dom Dziecka 04" lane="194796145#1_0" startPos="55.28" endPos="70.28" friendlyPos="true"/>
+    <busStop id="2318677861" name="Krzyżanowskiego szkoła 02" lane="504692926#1_0" startPos="268.22" endPos="283.22" friendlyPos="true"/>
+    <busStop id="2318677862" name="Krzyżanowskiego szkoła 01" lane="247887453#2_0" startPos="41.97" endPos="56.97" friendlyPos="true"/>
+    <busStop id="2318677864" name="Krzyżanowskiego / Armii Krajowej 04" lane="366538207#1_0" startPos="46.72" endPos="61.72" friendlyPos="true"/>
+    <busStop id="2318777324" name="Armii Krajowej / Krzyżanowskiego 03" lane="225118922#2_0" startPos="93.85" endPos="108.85" friendlyPos="true">
+        <access lane="-1072966960#0_0" pos="450.73" length="52.95" friendlyPos="1"/>
+        <access lane="1072966945_0" pos="0.00" length="28.01" friendlyPos="1"/>
+        <access lane="1072966960#0_0" pos="0.00" length="51.33" friendlyPos="1"/>
+        <access lane="366538216#2_0" pos="101.15" length="22.81" friendlyPos="1"/>
+        <access lane="366538216#3_0" pos="0.00" length="25.97" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2318777452" name="Armii Krajowej Park Papieski 02" lane="388711778#2_0" startPos="70.63" endPos="85.63" friendlyPos="true">
+        <access lane="-627960678#1_0" pos="0.00" length="129.14" friendlyPos="1"/>
+        <access lane="168025937#0_0" pos="73.91" length="24.82" friendlyPos="1"/>
+        <access lane="216619848#0_0" pos="6.52" length="123.37" friendlyPos="1"/>
+        <access lane="216619848#1_0" pos="2.53" length="121.01" friendlyPos="1"/>
+        <access lane="366538216#16_0" pos="319.26" length="120.29" friendlyPos="1"/>
+    </busStop>
+    <busStop id="2341952658" name="Krzyżanowskiego / Paderewskiego 03" lane="34331725#1_0" startPos="7.69" endPos="22.69" friendlyPos="true"/>
+    <busStop id="4910564662" name="Rejtana / Krzyżanowskiego 08" lane="730599651_0" startPos="273.09" endPos="288.09" friendlyPos="true" lines="0A">
+        <access lane="-744467792#8_0" pos="0.00" length="32.71" friendlyPos="1"/>
+        <access lane="-744467792#9_0" pos="87.28" length="18.78" friendlyPos="1"/>
+        <access lane="1061990627#0_0" pos="0.00" length="34.37" friendlyPos="1"/>
+        <access lane="744467792#8_0" pos="12.05" length="34.52" friendlyPos="1"/>
+        <access lane="744467792#9_0" pos="12.85" length="21.78" friendlyPos="1"/>
+    </busStop>
+    <busStop id="4912183772" name="Kwiatkowskiego Dom Studenta 01" lane="302684927#0_0" startPos="64.40" endPos="79.40" friendlyPos="true"/>
+    <busStop id="5244111821" name="Kopisto U. Skarbowy 03" lane="216830052_0" startPos="104.17" endPos="119.17" friendlyPos="true">
+        <access lane="-172995251#1_0" pos="0.00" length="38.00" friendlyPos="1"/>
+        <access lane="-172995251#2_0" pos="9.35" length="33.14" friendlyPos="1"/>
+        <access lane="-172995251#3_0" pos="7.68" length="40.54" friendlyPos="1"/>
+        <access lane="1234387701#1_0" pos="15.63" length="15.90" friendlyPos="1"/>
+        <access lane="172995251#2_0" pos="6.19" length="37.94" friendlyPos="1"/>
+    </busStop>
+    <busStop id="5244111841" name="Armii Krajowej hotel 01" lane="225118915#3_0" startPos="51.35" endPos="66.35" friendlyPos="true">
+        <access lane="-1072967094_0" pos="136.41" length="64.85" friendlyPos="1"/>
+        <access lane="1072967093_0" pos="0.00" length="48.53" friendlyPos="1"/>
+        <access lane="168025937#4_0" pos="111.11" length="64.10" friendlyPos="1"/>
+        <access lane="366538216#10_0" pos="24.13" length="22.91" friendlyPos="1"/>
+        <access lane="366538216#9_0" pos="28.22" length="50.08" friendlyPos="1"/>
+    </busStop>
+    <busStop id="5245333935" name="Powst. Warszawy szkoła 11" lane="284089023#3_0" startPos="45.28" endPos="60.28" friendlyPos="true" lines="0B"/>
+    <busStop id="633750515" name="Podwisłocze klinika 04" lane="172993580#16_0" startPos="70.03" endPos="85.03" friendlyPos="true" lines="10 21 26 32">
+        <access lane="-381178436#1_0" pos="56.67" length="53.44" friendlyPos="1"/>
+        <access lane="381178436#1_0" pos="22.90" length="58.24" friendlyPos="1"/>
+        <access lane="566809176#29_0" pos="27.43" length="23.88" friendlyPos="1"/>
+        <access lane="566809176#30_0" pos="0.00" length="45.32" friendlyPos="1"/>
+        <access lane="627754995#10_0" pos="151.18" length="26.17" friendlyPos="1"/>
+    </busStop>
+</additional>

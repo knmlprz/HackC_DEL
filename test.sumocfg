@@ -1,0 +1,12 @@
+<configuration>
+    <input>
+        <net-file value="osm_bbox.net.xml"/>
+        <route-files value="drive.route.xml"/>
+    </input>
+
+
+    <option>
+      <fcd-output value="resault_fcd.xml" />
+      <fcd-output.geo value="true" />
+    </option>
+</configuration>

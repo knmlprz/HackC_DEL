@@ -1,0 +1,84 @@
+<routes>
+
+  <vType id="CAR1" accel="0.8" decel="4" sigma="0.3" lenght="5" color="1,1,0" />
+
+  <route id="route0" color="1,1,0" edges="225118922#2 225118915#0 225118915#1 225118915#2 225118915#3 225118928 225118929#0 225118929#1 225118920#0 225118920#1 225118912 225118913 225118923 225118924#0 225118924#1 225118924#2 225118924#3 7973801#0 7973801#1 7973801#2 255596831#0 255596831#1 255596825#0 255596825#1 255596825#2 222825379#0 222825379#1 222825376 1225481836 744467798#0 744467798#1 730599653#0 730599653#1 730599653#2 495859913 730599651 730599650 730599649 322625232#0 322625232#1 322625232#2 922043208 922043207 744475266 255596827#0 255596827#1 255596827#2 255596827#3 168190618#0 168190618#1 168190616#0 168190616#1 627806961#0 627806961#1 627806961#2 733861039 733861038#0 733861038#1 44625089#0 44625089#1 44625089#2 44625089#3 44625089#4 44625089#5 44625089#6 343501971#0 343501971#1 343501971#2 343501971#3 216830048 89215696 216830042#0 216830042#1 216830042#2 -172993580#27 -172993580#26 -172993580#25 -172993580#24 -172993580#23 -172993580#22 -172993580#21 -172993580#20 -172993580#19 -172993580#18 -172993580#17 -172993580#16 -172993580#15 -172993580#14 -172993580#13 -172993580#12 -172993580#11 -172993580#10 -172993580#9 -172993580#8 -172993580#7 -172993580#6 -172993580#5 -172993580#4 -172993580#3 -172993580#2 -172993580#1 -172993580#0 172993583 272410205 266142483#0 266142483#1 266142483#2 172993576 216830065 216830069#0 216830069#1 216830069#2 266142462"/>
+
+  <route id="route1" color="1,0,1" edges="-172995254#1 -172995254#0 -1095883649#2 -1095883649#1 -1095883649#0 -216263062#2 -216263062#1 -216263062#0 216263059#0 216263059#1 216263059#2 216263059#3 222825342 1225481836 744467798#0 744467798#1 730599653#0 730599653#1 730599653#2 202895995#0 202895995#1 173116373#0 173116373#1 223256101#0 223256101#1 223256101#2 223256101#3 223256101#4 223256101#5 223256101#6 223256101#7 223256101#8 223256101#9 223256101#10 223256101#11 223256101#12 223256101#13 223256101#14 223256101#15 223256101#16 223256101#17 223256101#18 223256101#19 223256101#20 223256101#21 222825341#0 222825341#1 222825341#2 222825341#3 222825341#4 222825341#5 222825341#6 222825341#7 222825341#8 222825341#9 504692926#0 504692926#1 504692926#2 247887453#0 247887453#1 247887453#2 791024988#0 791024988#1 791024988#2 791024988#3 "/>
+
+<route id="route2" color="1,0,1" edges="-194796165#2 -194796165#1 -194796165#0 -172993056#7 -172993056#6 -172993056#5 -172993056#4 -172993056#3 -172993056#2 -172993056#1 -172993056#0 -994014110 -994014111#1 -994014111#0 131230797#0 131230797#1 131230797#2 131230795#0 131230795#1 224021297#0 224021297#1 224021297#2 168190616#0 168190616#1 167625838#0 167625838#1 44625072#0 44625072#1 44625072#2 44625072#3 255596832#0 255596832#1 255596832#2 255596832#3 255596818 255596820 255596822#0 255596822#1 222825378#0 222825378#1 495859914#0 495859914#1 495859914#2 222825377"/>
+
+
+
+
+  <vehicle id="0" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="1" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="2" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="3" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="4" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="5" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="6" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="7" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="8" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="9" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="10" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="11" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="12" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="13" route="route0" type="CAR1" depart="0" color="1,1,0" />
+  <vehicle id="14" route="route0" type="CAR1" depart="0" color="1,1,0" />
+
+  <vehicle id="15" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="16" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="17" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="18" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="19" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="20" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="21" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="22" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="23" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="24" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="25" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="26" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="27" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="28" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="29" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="30" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="31" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="32" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="33" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="34" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="35" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="36" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="37" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="38" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="39" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="40" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="41" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="42" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="43" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="44" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="45" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="46" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="47" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="48" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="49" route="route1" type="CAR1" depart="0" color="1,0,0" />
+  <vehicle id="50" route="route1" type="CAR1" depart="0" color="1,0,0" />
+
+  <vehicle id="51" route="route2" type="CAR1" depart="0" color="0,1,0" />
+  <vehicle id="52" route="route2" type="CAR1" depart="0" color="0,1,0" />
+  <vehicle id="53" route="route2" type="CAR1" depart="0" color="0,1,0" /> 
+  <vehicle id="54" route="route2" type="CAR1" depart="0" color="0,1,0" />
+  <vehicle id="55" route="route2" type="CAR1" depart="0" color="0,1,0" />
+  <vehicle id="56" route="route2" type="CAR1" depart="0" color="0,1,0" />
+  <vehicle id="57" route="route2" type="CAR1" depart="0" color="0,1,0" />
+  <vehicle id="58" route="route2" type="CAR1" depart="0" color="0,1,0" />
+  <vehicle id="59" route="route2" type="CAR1" depart="0" color="0,1,0" />
+  <vehicle id="60" route="route2" type="CAR1" depart="0" color="0,1,0" />
+  <vehicle id="61" route="route2" type="CAR1" depart="0" color="0,1,0" />
+  <vehicle id="62" route="route2" type="CAR1" depart="0" color="0,1,0" />
+  <vehicle id="63" route="route2" type="CAR1" depart="0" color="0,1,0" />
+  <vehicle id="64" route="route2" type="CAR1" depart="0" color="0,1,0" />
+
+
+
+</routes>
